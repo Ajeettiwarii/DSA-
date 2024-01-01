@@ -1,12 +1,9 @@
-
-
 #!/bin/bash
 
 # Change this to your GitHub email ID
 GIT_EMAIL="ajeettiwari.ajju21may@gmail.com"
 GIT_NAME="Ajeet Tiwari"
 REPO_DIR="/c/Users/ajeet\ tiwari/Desktop/github-green-hack"
- 
 
 # Set git config
 git config user.email "$GIT_EMAIL"
@@ -14,7 +11,7 @@ git config user.name "$GIT_NAME"
 
 # Set the start date
 start_date="2024-01-01"
-end_date="2024-12-31"
+end_date="2024-02-01"
 
 current_date="$start_date"
 
